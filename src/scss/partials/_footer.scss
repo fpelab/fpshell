@@ -1,0 +1,13 @@
+/* =======================================
+ * FOOTER
+ * ======================================= */
+
+footer {
+	position: absolute;
+	background: #ccc;
+	width: 100%;
+	top: 100%;
+	left: 0;
+	height: $ftr-size;
+	margin-top: -$ftr-size;
+}

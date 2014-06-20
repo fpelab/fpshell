@@ -1,0 +1,80 @@
+/* =======================================
+ * BASE
+ * Описываются только общие селекторы, 
+ * типографика, структурные селекторы
+ * ======================================= */
+
+::selection{
+  background:#333;
+  color:#fff;
+  text-shadow:none;
+}
+::-moz-selection{
+  background:#333;
+  color:#fff;
+  text-shadow:none;
+}
+::-webkit-selection{
+  background:#333;
+  color:#fff;
+  text-shadow:none;
+}
+p {
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+* {
+  -webkit-font-smoothing:antialiased;
+  font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+  @include vendor(box-sizing, border-box);
+}
+
+
+html {
+  font-size:62.5%;
+  height: 100%;
+}
+body {
+  font:300 13px/1.6 'Helvetica Neue', Helvetica, Arial;
+  background:#fff;
+  color: $add-lnk2;
+  min-height: 100%;
+  position: relative;
+}
+
+/* structur elements */
+.container {
+  width: $wrp-size;
+  margin: 0 auto;
+}
+
+/* headers */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: pink;
+}
+
+/* components */
+dl {
+    margin-bottom:50px;
+    dt {
+      color:#fff;
+      float:left; 
+      font-weight:bold; 
+      margin-right:10px; 
+      padding:5px;  
+    }
+    dd {
+      margin:2px 0; 
+      padding:5px 0;
+    }
+}
+ 
+

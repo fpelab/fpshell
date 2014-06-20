@@ -1,0 +1,21 @@
+//----------------------------------*\
+// COLOR VARS
+//----------------------------------*/
+$base-clr: white;
+$add-clr: red;
+$add-clr2: pink;
+
+$base-lnk: blue;
+$add-lnk: red;
+$add-lnk2: black;
+
+//----------------------------------*\
+// SIZES VARS
+//----------------------------------*/
+
+$wrp-size: 1280px;
+$side-size: 280px;
+$mrg-size: 20px;
+$main-size: $wrp-size - $side-size - $mrg-size;
+
+$ftr-size: 200px;

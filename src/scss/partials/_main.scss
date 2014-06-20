@@ -1,0 +1,17 @@
+/* =======================================
+ * MAIN BLOCK
+ * ======================================= */
+#content-wrp {
+	padding-bottom: $ftr-size;
+	background: #fafafa;
+	@extend %clearfix;
+}
+
+main {
+	width: $wrp-size;
+	.with-sidebar & {
+	    float: right;
+    	width: $main-size;
+	}
+}
+

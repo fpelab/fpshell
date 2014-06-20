@@ -1,0 +1,373 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"va",
+				"var1"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"connec",
+				"connect2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"jq",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"istal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Web Design/!CURRENT PROJECTS/test2/gulpfile.js",
+		"/D/Web Design/!CURRENT PROJECTS/test/src/scss/partials/_sidebar.scss",
+		"/D/Web Design/!CURRENT PROJECTS/test/src/js/_app.js",
+		"/D/Web Design/!CURRENT PROJECTS/test/src/scss/vendor/jquery.fancybox.scss",
+		"/D/Web Design/!CURRENT PROJECTS/test/app/index.html",
+		"/D/Web Design/!CURRENT PROJECTS/test/src/scss/modules/_base.scss",
+		"/D/Web Design/!CURRENT PROJECTS/test/src/scss/partials/_header.scss",
+		"/D/Web Design/!CURRENT PROJECTS/test/src/scss/partials/_main.scss",
+		"/D/Web Design/!CURRENT PROJECTS/test/gulpfile.js",
+		"/D/Web Design/!CURRENT PROJECTS/test/src/scss/partials/_footer.scss",
+		"/D/Web Design/!CURRENT PROJECTS/test/src/scss/modules/_vars.scss",
+		"/D/Web Design/!CURRENT PROJECTS/test/src/scss/partials/_nav.scss",
+		"/D/Web Design/!CURRENT PROJECTS/test/src/scss/style.scss",
+		"/D/Web Design/!CURRENT PROJECTS/test/src/scss/modules/_breakpoints.scss",
+		"/D/Web Design/!CURRENT PROJECTS/test/src/scss/modules/_print.scss",
+		"/D/Web Design/!CURRENT PROJECTS/test/src/scss/modules/_lists.scss",
+		"/D/Web Design/!CURRENT PROJECTS/test/src/scss/modules/_inputs.scss",
+		"/D/Web Design/!CURRENT PROJECTS/test/src/scss/modules/_buttons.scss",
+		"/D/Web Design/!CURRENT PROJECTS/test/src/scss/modules/_normalize.scss",
+		"/D/Web Design/!CURRENT PROJECTS/test/app/js/app.js",
+		"/D/Web Design/!Working Hours/counter.js",
+		"/D/Web Design/!CURRENT PROJECTS/test/src/js/src/_createPlugin.js",
+		"/D/Web Design/!CURRENT PROJECTS/test/src/js/src/test.js",
+		"/D/Web Design/!Tools/Gulp/gulpfile.js",
+		"/C/Users/FPElab/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/FPElab/AppData/Local/Temp/fz3temp-1/shopkeeper.js",
+		"/D/Temp/se.png",
+		"/D/Web Design/!Tools/Gulp/app/css/sftp-config.json",
+		"/D/Web Design/!Tools/Gulp/app/js/app.js",
+		"/D/Web Design/!Tools/Gulp/src/js/_app.js",
+		"/D/Web Design/!Tools/Grunt/Gruntfile.js",
+		"/D/Web Design/!Tools/Gulp/package.json",
+		"/D/Web Design/!Tools/Grunt/package.json",
+		"/D/Web Design/!Tools/Gulp/Gruntfile.js",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/src/scss/modules/_base.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/src/scss/modules/_normalize.scss",
+		"/D/Web Design/!Tools/Gulp/app/index.html",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/src/scss/style.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/src/scss/modules/_sprites.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/src/scss/modules/_vars.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/app/index.html",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/src/scss/modules/_buttons.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/src/scss/modules/_inputs.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/src/scss/modules/_lists.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/src/scss/modules/_print.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/src/scss/partials/_footer.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/src/scss/partials/_header.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/src/scss/partials/_main.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/src/scss/partials/_nav.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/src/scss/partials/_sidebar.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/src/scss/modules/_breakpoints.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/src/js/_app.js",
+		"/D/Web Design/!Tools/Gulp/src/scss/mixins/_vendor.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Test gulp/app/js/app.js",
+		"/D/Web Design/!CURRENT PROJECTS/Test gulp/src/js/app.js",
+		"/D/Web Design/!CURRENT PROJECTS/Test gulp/src/js/src/test.js",
+		"/D/Web Design/!Tools/Grunt/src/js/scripts.js",
+		"/D/Web Design/!CURRENT PROJECTS/Test gulp/src/js/_app.js",
+		"/D/Web Design/!CURRENT PROJECTS/Test gulp/gulpfile.js",
+		"/D/Web Design/!Tools/Gulp/src/scss/modules/_base.scss",
+		"/C/Users/FPElab/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/FPElab/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Web Design/!CURRENT PROJECTS/Test gulp/src/scss/partials/_main.scss",
+		"/C/Users/FPElab/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp5/src/scss/partials/_main.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp4/gulpfile.js",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp7/app/index.html",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp6/app/index.html",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/gulpfile.js",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp3/gulpfile.js",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp2/gulpfile.js",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp4/app/index.html",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp2/src/scss/partials/_main.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp2/Gruntfile.js",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp2/package.json",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/start.bat",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/sprite.bat",
+		"/D/Web Design/!CURRENT PROJECTS/Grunt/package.json",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/node_modules/gulp-spritesmith/package.json",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/node_modules/gulp-spritesmith/index.js",
+		"/D/Web Design/!CURRENT PROJECTS/Grunt/grunt-dev.bat",
+		"/D/Web Design/!CURRENT PROJECTS/Grunt/src/scss/partials/_main.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Grunt/app/index.html",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp/package.json",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp5/package.json",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp8/gulpfile.js",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp8/package.json",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp7/gulpfile.js",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp7/package.json",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp8/app/index.html",
+		"/D/Web Design/!CURRENT PROJECTS/TEST/src/js/src/test.js",
+		"/D/Web Design/!CURRENT PROJECTS/TEST/src/scss/partials/_main.scss",
+		"/D/Web Design/!CURRENT PROJECTS/TEST/app/index.html",
+		"/D/Web Design/!CURRENT PROJECTS/TEST/app/styles/styles.css",
+		"/D/Web Design/!CURRENT PROJECTS/DELFI32/app/index.html",
+		"/D/Web Design/!CURRENT PROJECTS/TEST/gulpfile.js",
+		"/D/Web Design/!CURRENT PROJECTS/TEST/package.json",
+		"/D/Web Design/!CURRENT PROJECTS/Grunt/Grunt/package.json",
+		"/D/Web Design/!CURRENT PROJECTS/Grunt/Grunt/app/index.html",
+		"/D/Web Design/!CURRENT PROJECTS/Grunt/Grunt/grunt-dev.bat",
+		"/D/Web Design/!CURRENT PROJECTS/TEST/src/js/app.js",
+		"/D/Web Design/!CURRENT PROJECTS/TEST/src/js/test.js",
+		"/D/Web Design/!CURRENT PROJECTS/TEST/src/scripts/src/test.js",
+		"/D/Web Design/!CURRENT PROJECTS/TEST/src/styles/scss/layout/_main.scss",
+		"/D/Web Design/!CURRENT PROJECTS/TEST/src/index.html",
+		"/D/Web Design/!CURRENT PROJECTS/TEST/app/scripts/app.js",
+		"/D/Web Design/!CURRENT PROJECTS/TEST/app/styles/scss/layout/_main.scss",
+		"/D/Web Design/!CURRENT PROJECTS/TEST/app/scss/base/_base.scss",
+		"/D/Web Design/!CURRENT PROJECTS/TEST/app/scss/main.scss",
+		"/D/Web Design/!CURRENT PROJECTS/TEST/app/scss/layout/_main.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Front-End-Gulp-Boilerplate-master/Front-End-Gulp-Boilerplate-master/gulpfile.js",
+		"/D/Web Design/!CURRENT PROJECTS/GULPTTEST/src/scss/partials/_main.scss",
+		"/D/Web Design/!CURRENT PROJECTS/GULPTTEST/src/js/scripts.js",
+		"/D/Web Design/!CURRENT PROJECTS/GULPTTEST/app/index.html",
+		"/D/Web Design/!CURRENT PROJECTS/GULPTTEST/app/css/styles.css",
+		"/D/Web Design/!CURRENT PROJECTS/Gulp2/app/js/main.js",
+		"/D/Web Design/!CURRENT PROJECTS/GULP/gulpfile.js",
+		"/D/Web Design/!CURRENT PROJECTS/Front-End-Gulp-Boilerplate-master/Front-End-Gulp-Boilerplate-master/app/scripts/src/app.js",
+		"/D/Web Design/!CURRENT PROJECTS/Front-End-Gulp-Boilerplate-master/Front-End-Gulp-Boilerplate-master/app/scripts/src/test2.js",
+		"/D/Web Design/!CURRENT PROJECTS/Front-End-Gulp-Boilerplate-master/Front-End-Gulp-Boilerplate-master/app/scripts/src/test.js",
+		"/D/Web Design/!CURRENT PROJECTS/Front-End-Gulp-Boilerplate-master/Front-End-Gulp-Boilerplate-master/app/styles/scss/layout/_main.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Front-End-Gulp-Boilerplate-master/Front-End-Gulp-Boilerplate-master/app/scripts/app.js",
+		"/D/Web Design/!CURRENT PROJECTS/Front-End-Gulp-Boilerplate-master/app/index.html",
+		"/D/Web Design/!CURRENT PROJECTS/Front-End-Gulp-Boilerplate-master/gulpfile.js",
+		"/D/Grunt/app/index.html",
+		"/D/Grunt/src/scss/partials/_main.scss",
+		"/D/Web Design/!CURRENT PROJECTS/Test/test-project/sidemenu/class.sidemenu.php",
+		"/D/Web Design/!CURRENT PROJECTS/Test/test-project/category/class.category.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"close",
+			"skin",
+			"padding",
+			".cart",
+			"#top_c",
+			"open"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
