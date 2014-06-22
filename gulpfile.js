@@ -24,9 +24,10 @@ header      = require('gulp-header');
 server = lr();
 
 var banner = ['/**',
-  ' * @Fyodorov Pavel Elaboration 2014',
+  ' * @Fedorov Pavel Elaboration 2014',
   ' * @link http://fpelab.com',
-  ' * @git https://bitbucket.org/fpelab',
+  ' * @git https://github.com/fpelab',
+  ' * Copyright (c) 2014 Fedorov Pavel The MIT License (MIT)',
   ' */',
   ''].join('\n');
 
